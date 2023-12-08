@@ -8,7 +8,10 @@ export default function Home() {
           <code className="font-mono font-bold">RealLifeObito</code>
         </p>
           
-        <p>Real Story just starting</p>
+        <p>Hello  Everyone</p>
+      </div>
+      <div>
+        <h1>Welcome to RealLifeObito</h1>
       </div>
     </main>
   )
